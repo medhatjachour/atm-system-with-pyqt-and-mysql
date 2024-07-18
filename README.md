@@ -41,6 +41,7 @@ database = "atm_system_db"
 # atm-system-with-pyqt-and-mysql
 start with main.py
 use one of this data
+card number        ---> pin
 5391587278358959   ---> 2021
 4485482955667577   ---> 2041
 5330045566103961   ---> 2211
