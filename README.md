@@ -3,11 +3,11 @@
 The ATM System with PyQt and MySQL is a simulation of an automated teller machine (ATM) that allows users to perform basic banking operations. It’s built using Python for both the front end (using PyQt) and the backend (using MySQL).
  
 ## Features
-Withdrawal: Users can withdraw funds from their account.
-Transaction: Users can view their transaction history.
-Reset PIN: Users can reset their PIN (password).
-Transfer: Users can transfer funds between accounts..
-Deposit: Users can Deposit funds into his account..
+  1. Withdrawal: Users can withdraw funds from their account.
+  2. Transaction: Users can view their transaction history.
+  3. Reset PIN: Users can reset their PIN (password).
+  4. Transfer: Users can transfer funds between accounts..
+  5. Deposit: Users can Deposit funds into his account..
 
 ![alt text](https://github.com/medhatjachour/atm-system-with-pyqt-and-mysql/blob/main/sample/img1.png?raw=true)
 ## Prerequisites
