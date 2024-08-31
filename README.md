@@ -8,6 +8,7 @@ The ATM System with PyQt and MySQL is a simulation of an automated teller machin
   3. Reset PIN: Users can reset their PIN (password).
   4. Transfer: Users can transfer funds between accounts..
   5. Deposit: Users can Deposit funds into his account..
+  5. Change Language: Users can Choose Between Arabic and English..
 
 ![alt text](https://github.com/medhatjachour/atm-system-with-pyqt-and-mysql/blob/main/sample/img1.png?raw=true)
 ## Prerequisites
